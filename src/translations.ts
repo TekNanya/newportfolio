@@ -117,8 +117,8 @@ export const translations = {
         technologies:
             'React · TypeScript · Vite · CSS',
         status: 'Завершён',
-        demoUrl: 'https://portfolio-i1jz-phi-2026.vercel.app/',
-        githubUrl: 'YOUR_GITHUB_REPOSITORY_URL'
+        demoUrl: 'https://newportfolio-peach-alpha.vercel.app/',
+        githubUrl: 'https://github.com/TekNanya/newportfolio'
         }
     ]
     },
@@ -250,8 +250,8 @@ export const translations = {
         technologies:
             'React · TypeScript · Vite · CSS',
         status: 'Completed',
-        demoUrl: 'https://portfolio-i1jz-phi-2026.vercel.app/',
-        githubUrl: 'YOUR_GITHUB_REPOSITORY_URL'
+        demoUrl: 'https://newportfolio-peach-alpha.vercel.app/',
+        githubUrl: 'https://github.com/TekNanya/newportfolio'
         }
       ]
     },
